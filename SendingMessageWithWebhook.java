@@ -1,4 +1,4 @@
-package com.mg.core.messaging;
+package slack;
 
 import java.io.BufferedReader;
 import java.io.IOException;
